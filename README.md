@@ -2,7 +2,7 @@
 
 ## Cloning
 ```
-> https://github.com/hndhduc/spam_cmt_Facebook
+> git clone https://github.com/hndhduc/spam_cmt_Facebook
 > cd spam_cmt_Facebook
 > Sửa nội dung trong file spam.py
 ```
