@@ -2,7 +2,7 @@
 
 ## Cloning
 ```
-> git clone https://github.com/ttkienn/spam_cmt_Facebook
+> git clone https://github.com/hndhduc/spam_cmt_Facebook
 > cd spam_cmt_Facebook
 > Sửa nội dung trong file spam.py
 ```
@@ -15,8 +15,8 @@ pip3 install -r require.txt
 python spam.py
 ```
 ```
-Author: Thiệu Trung Kiên
-Facebook: https://facebook.com/ThieuTrungKi3n
+Author: Hoang Duc
+Facebook: https://www.facebook.com/hducdeptryy
 Youtube: https://www.youtube.com/channel/UCYNO8G3HKBQtDMKxn_7-bCw
 ```
 ## Demo
